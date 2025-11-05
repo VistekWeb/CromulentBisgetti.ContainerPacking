@@ -47,7 +47,7 @@ namespace CromulentBisgetti.ContainerPacking
 							item.Dim3, 
 							item.Quantity,
 							item.Weight,
-							item.UnitCost,
+							item.TotalCost,
 							item.MaterialBuffer,
 							item.IsPadded
 						));
